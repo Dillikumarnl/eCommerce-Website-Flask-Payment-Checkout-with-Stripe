@@ -41,7 +41,7 @@ def create_checkout_session():
                     "price_data": {
                         "currency": "usd",
                         "product_data": {
-                            "name": "T-shirt",
+                            "name": "Keyboard",
                         },
                         "unit_amount": 2000,  # Amount in cents
                     },
